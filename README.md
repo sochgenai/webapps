@@ -1,3 +1,3 @@
-Sochgean Web Apps
+SochgenAI Web Apps
 ==================
 #webapps
